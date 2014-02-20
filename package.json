@@ -1,0 +1,17 @@
+{
+  "name": "stagas-dom-lite",
+  "description": "not fancy dom helper utils",
+  "version": "0.1.1",
+  "keywords": [
+    "dom",
+    "helper",
+    "utils"
+  ],
+  "dependencies": {
+    "stagas-binder": "git://github.com/npmcomponent/stagas-binder.git",
+    "component-css": "git://github.com/npmcomponent/component-css.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "adamsanderson-trigger-event": "git://github.com/npmcomponent/adamsanderson-trigger-event.git"
+  },
+  "license": "MIT"
+}

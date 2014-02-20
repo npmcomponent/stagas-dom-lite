@@ -16,10 +16,10 @@ var raw
  * Module dependencies.
  */
 
-var css = require('css')
-var classes = require('classes')
-var binder = require('binder')
-var trigger = require('trigger-event')
+var css = require('component-css')
+var classes = require('component-classes')
+var binder = require('stagas-binder')
+var trigger = require('adamsanderson-trigger-event')
 
 /**
  * Dom.
